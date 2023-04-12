@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+PAGE TITLE: Welcome to Karthik's blog
 ---
 
